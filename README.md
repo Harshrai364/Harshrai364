@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Harsh Rai
 
-<!--
-**Harshrai364/Harshrai364** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Aspiring Data Analyst | MIS Enthusiast**
 
-Here are some ideas to get you started:
+I turn **raw data into clear insights**.  
+Certified via **IBM Data Analyst Program**, with a strong interest in **analytics, reporting, and dashboards**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+- **SQL** | **Python (Pandas)**  
+- **Excel** (Dashboards, Pivot Tables)  
+- **Power BI**
+- **IBM Cognos**
+- **Google Analytics**
+
+---
+
+## 🌱 Currently Growing In
+- Advanced SQL  
+- Business Intelligence & Reporting
+- Python
+
+---
+
+## 🎯 Career Goal
+To work as a **Data Analyst / MIS Executive**, helping businesses make **data-driven decisions**.
+
+✨ *Learning every day. Building step by step.*
